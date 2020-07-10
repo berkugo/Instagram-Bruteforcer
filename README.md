@@ -24,4 +24,12 @@ Basically, it's a script written with node.js which is creating a bruteforce att
 Working with TOR proxies to avoid getting blocked by Instagram.
 Don't forget to add this line - MaxCircuitDirtiness 10 - at the end of your torrc file..
 
+
+
 - Push your usernames into the array inside of names.json file.
+```
+apt get install nodejs && apt get install npm
+npm install  
+node main.js names.json pass.txt 
+```
+
