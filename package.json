@@ -1,0 +1,23 @@
+{
+  "name": "bruterjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.8.5",
+    "colors": "^1.4.0",
+    "delay": "^4.3.0",
+    "fetch": "^1.1.0",
+    "line-reader": "^0.4.0",
+    "n-readlines": "^1.0.0",
+    "nodemon": "^2.0.4",
+    "npm": "^6.14.6",
+    "puppeteer": "^5.0.0"
+  }
+}
